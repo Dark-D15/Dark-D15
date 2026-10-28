@@ -3,14 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Darki&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Ingenier%C3%ADa%20de%20Sistemas%20%7C%20Desarrollador%20de%20Software&descSize=18&descAlignY=60" width="100%" alt="Cabecera" />
 
 <a href="https://github.com/Dark-D15">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+en+la+UNAC;Desarrollo+web+y+aplicaciones+de+escritorio;Apasionado+por+las+bases+de+datos;Aprendiendo+automatizaci%C3%B3n+e+IA+%F0%9F%A4%96" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollo+web+y+aplicaciones+de+escritorio;Apasionado+por+las+bases+de+datos;Aprendiendo+automatizaci%C3%B3n+e+IA+%F0%9F%A4%96" alt="Texto animado" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Dark-D15&label=Visitas&color=0e75b6&style=flat-square" alt="Visitas al perfil" />
 <img src="https://img.shields.io/github/followers/Dark-D15?label=Seguidores&style=flat-square&color=0e75b6" alt="Seguidores" />
-<img src="https://img.shields.io/badge/UNAC-Ing.%20de%20Sistemas-1f6feb?style=flat-square" alt="UNAC" />
 
 </div>
 
@@ -35,8 +34,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
 
