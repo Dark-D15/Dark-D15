@@ -19,11 +19,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
-<h4>💻 Languages &amp; Web Development</h4>
+<h4> Languages &amp; Web Development</h4>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" alt="HTML5" />
@@ -31,11 +31,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" alt="JavaScript" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117" alt="PHP" />
 
-<h4>🗄️ Databases</h4>
+<h4> Databases</h4>
 
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0D1117" alt="SQL Server" />
 
-<h4>🛠️ Tools &amp; Environment</h4>
+<h4> Tools &amp; Environment</h4>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
@@ -46,7 +46,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ═══════════════ GITHUB STATS ═══════════════ -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"> GitHub Stats</h2>
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ═══════════════ CONTACT ═══════════════ -->
-<h2 align="center">📫 Get in Touch</h2>
+<h2 align="center"> Get in Touch</h2>
 
 <div align="center">
 
